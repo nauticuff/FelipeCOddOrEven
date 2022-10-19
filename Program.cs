@@ -1,10 +1,8 @@
 ﻿/*
-Carlos Felipe Sales
-9-13-22
+Carlos Felipe 
+10/19/22
 Mini Challenge #6 - Odd or Even
-This code takes in a number a user types in and tells the user whether that number is odd or even
-Peer review: Freddy A. - " Program worked as intended. Outputs whether the input is odd or even, Points for creativity. Flow chart makes sense and can see how it implemented into code. "
-READY TO GO
+This program asks a user for a number. It then checks if that number is odd or even.
 */
 
 Console.Clear();
